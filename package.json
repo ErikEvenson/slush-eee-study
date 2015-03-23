@@ -1,7 +1,7 @@
 {
     "name": "slush-eee-study",
     "description": "A slush generator study",
-    "version": "0.1.0",
+    "version": "0.1.0dev",
     "homepage": "https://github.com/ErikEvenson/slush-eee-study",
     "author": {
         "name": "Erik Evenson",

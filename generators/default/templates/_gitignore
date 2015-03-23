@@ -1,0 +1,5 @@
+# Ignore the temp directory
+temp/
+
+# Ignore node module directories.
+node_modules/
